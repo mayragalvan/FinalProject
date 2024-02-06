@@ -1,3 +1,3 @@
-# FinalProject
+# Building a dashboard with IBM Cognos Analytics
 
-Its a coursera repository of capstone project
+Its a coursera repository of capstone project Building a dashboard with IBM Cognos Analytics
